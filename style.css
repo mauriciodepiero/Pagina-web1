@@ -1,0 +1,36 @@
+.colores {
+   background-color: burlywood;
+}
+
+.colores{ 
+    color: orangered;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10%;
+    text-align: center;
+    border-color: brown;
+    background: url("https://thumbs.dreamstime.com/b/piedras-del-mar-127686153.jpg"); 
+    background-position: center;
+    background-size: contain;
+    
+}
+.colores h2{
+    border-style: dotted;
+}
+
+.colores p{
+    color: white;
+    font-size: larger;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.colores img{
+    display: block;
+    margin: auto;
+    opacity: 0.9;
+}
+
+.colores2{
+    color: yellowgreen;
+}
